@@ -16,7 +16,7 @@ namespace WebAPI.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "Hello", DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss fff") };
         }
 
         // GET api/<TestController>/5

@@ -3,6 +3,9 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <Copyright>an1ju@163.com</Copyright>
+    <Authors>Qi</Authors>
+    <Company>电子信息产业不</Company>
   </PropertyGroup>
 
   <ItemGroup>
